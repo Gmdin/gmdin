@@ -1,4 +1,4 @@
-# Ghulam Mahiu Din - Full Stack Developer
+# Ghulam Mahial Din - Full Stack Developer
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-mahiu-din/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahiu_din716)
 
@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with over 3 years of ex
 
 Here are some of the recent projects that I've worked on:
 
-- **CryptoKara:** A secure wallet for top cryptos - Bitcoin, Ethereum, Binance, and TRON. Users can send, receive, and store cryptocurrencies and NFTs securely with CryptoKara Wallet App. The app is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.cryptokara&hl=en&gl=US) and [App Store](https://apps.apple.com/us/app/cryptokara/id1574682003).
-- **Block Merchants:** A crypto asset platform offering storage and payment support for Bitcoin and top altcoins. The mobile app allows businesses to easily send and receive crypto assets with features aimed at simplifying the process. The app is available on [App Store](https://apps.apple.com/us/app/block-merchants/id1574668097).
-- **CQR Vault:** A mobile app and web app for managing and tracking cryptocurrency assets. The app supports multiple cryptocurrencies and allows users to view their portfolio performance and transactions. The app is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.cqrvault&hl=en&gl=US), and [web app](https://cqrvault.org/).
+- **CryptoKara:** A secure wallet for top cryptos - Bitcoin, Ethereum, Binance, and TRON. Users can send, receive, and store cryptocurrencies and NFTs securely with CryptoKara Wallet App. 
+- **Block Merchants:** A crypto asset platform offering storage and payment support for Bitcoin and top altcoins. The app allows businesses to easily send and receive crypto assets with features aimed at simplifying the process.
+- **CQR Vault:** A web app for managing and tracking cryptocurrency assets. The app supports multiple cryptocurrencies and allows users to view their portfolio performance and transactions. The web app link is [web app](https://cqrvault.org/).
 
 
 ## Contact
